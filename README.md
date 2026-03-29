@@ -14,7 +14,7 @@
 - RAG Pipelines & Vector DB Systems
 
 ### 📊 Real Results:
-- 11,929+ businesses processed autonomously
+- 121,929+ businesses processed autonomously
 - 80% operational cost reduction documented
 - 50+ global projects — US, EU, MENA
 - 100+ manual hours saved/week (Google-verified)
