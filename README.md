@@ -29,6 +29,6 @@ Building scalable web applications, intelligent AI-driven platforms, and robust 
 
 ### 📊 Highlights
 
-* ⚡ Focused on clean code, solid system design, and responsive interfaces.
-* 🚀 Built full-scale web products and recruitment AI platforms.
-* 💡 Continuously shipping code and exploring cutting-edge AI architectures.
+* Focused on clean code, solid system design, and responsive interfaces.
+* Built full-scale web products and recruitment AI platforms.
+* Continuously shipping code and exploring cutting-edge AI architectures.
