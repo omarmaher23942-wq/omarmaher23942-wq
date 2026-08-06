@@ -14,10 +14,9 @@
 - RAG Pipelines & Vector DB Systems
 
 ### 📊 Real Results:
-- 121,929+ businesses processed autonomously
 - 80% operational cost reduction documented
-- 50+ global projects — US, EU, MENA
-- 100+ manual hours saved/week (Google-verified)
+- 30+ projects
+- 100+ manual hours saved/week 
 
 ---
 [![Portfolio](https://img.shields.io/badge/Portfolio-omarmaher.com-8B5CF6?style=for-the-badge)](https://omarmaher.com/)
