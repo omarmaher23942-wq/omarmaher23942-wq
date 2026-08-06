@@ -3,7 +3,6 @@
 ### Full-Stack Web Developer & AI Engineer
 Building scalable web applications, intelligent AI-driven platforms, and robust API architectures.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-OMARMAHER.COM-purple?style=for-the-badge)](https://omarmaher.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OMAR_MAHER-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-omarmaher23942@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarmaher23942@gmail.com)
 
