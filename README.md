@@ -1,6 +1,6 @@
 # Hi, I'm Omar Maher 👋
 
-### Full-Stack Web Developer & AI Engineer
+### Production-Ready Full Stack & AI Systems
 Building scalable web applications, intelligent AI-driven platforms, and robust API architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OMAR_MAHER-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
